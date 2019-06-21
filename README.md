@@ -1,1 +1,3 @@
 # JavaPracticeJenkins
+
+checking poll scm...........
